@@ -13,7 +13,7 @@ Category Grid: Eight evenly spaced product‑category “cards,” each with a h
 Footer: Multi‑column link layout (“Get to Know Us,” etc.), a “Back to Top” bar, and a bottom strip with legal links and copyright.
 
 
-Every layout area is wrapped in semantic HTML elements <header>, <section>, <footer> and styled using CSS Flexbox for alignment, %/rem units for proportional sizing, and hover states (borders, color shifts) for interactivity. Background images are applied on empty <div>s with background-size: cover to maintain their aspect ratio, and utility classes (like a reusable .border hover outline) keep the code DRY. The end result is a pixel‑perfect static clone that looks and behaves like Amazon’s landing page—ideal for demonstrating CSS layout skills and attention to detail.
+Every layout area is wrapped in semantic HTML elements and styled using CSS Flexbox for alignment, %/rem units for proportional sizing, and hover states (borders, color shifts) for interactivity. Background images are applied on empty <div>s with background-size: cover to maintain their aspect ratio, and utility classes (like a reusable .border hover outline) keep the code DRY. The end result is a pixel‑perfect static clone that looks and behaves like Amazon’s landing page—ideal for demonstrating CSS layout skills and attention to detail.
 
 ---
 
