@@ -1,5 +1,8 @@
 # amazon-frontend-clone
 
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/22cfff1b-af60-4cc7-9651-cffe1b96e8cf" />
+<img width="1424" alt="Image" src="https://github.com/user-attachments/assets/4208253c-d87b-499f-a4e4-e1c7b95f65bf" />
+<img width="1427" alt="Image" src="https://github.com/user-attachments/assets/2d508cc3-1303-4323-b371-50137634e9d2" />
 This project is a static, front‑end replica of Amazon’s homepage—built entirely with HTML5 and CSS3 (plus Font Awesome for icons). It mirrors Amazon’s key sections:
 Header & Navigation: A flex‑based navbar housing the logo, delivery address panel, search bar with category selector, country switcher, account menus and cart icon.
 
